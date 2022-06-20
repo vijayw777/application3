@@ -36,3 +36,8 @@ function Div(num1, num2) {
   console.log(`${num1}/${num2} = ${num1 / num2}`)
 }
 Div(20, 5)
+
+function Sqr(num) {
+  console.log(`${num}^2 = ${num * num}`)
+}
+Sqr(5)
