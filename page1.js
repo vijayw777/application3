@@ -27,3 +27,7 @@ function Sub(num1, num2) {
   console.log(`${num1}-${num2} = ${num1 - num2}`)
 }
 Sub(20, 10)
+function Div(num1, num2) {
+  console.log(`${num1}/${num2} = ${num1 / num2}`)
+}
+Div(20, 5)
